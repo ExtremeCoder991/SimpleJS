@@ -1,5 +1,5 @@
 /*
-Copyright (c) 2013 dissimulate at codepen
+Copyright (c) 2023 Noob Sniper at codepen
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
